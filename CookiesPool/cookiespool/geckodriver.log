@@ -1,0 +1,27 @@
+1544876986280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3aG9HeW7Vdbk"
+1544876987289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544876987290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1544876992105	Marionette	INFO	Listening on port 42115
+1544876992174	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:126976): dconf-WARNING **: 20:30:05.778: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript warning: https://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=38b1b27dfee05c5d, line 1: unreachable code after return statement
+JavaScript warning: https://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=38b1b27dfee05c5d, line 1: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1544877059165, line 139: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1544877059165, line 139: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1544877059165, line 172: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1544877059165, line 174: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1544877059165, line 198: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1544877059165, line 200: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1544877059165, line 207: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1544877059165, line 139: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1544877059165, line 174: unreachable code after return statement
+1544877095801	Marionette	INFO	Stopped listening on port 42115
